@@ -7,3 +7,5 @@
 *I hope that somebody will like my website.*
 
 *Besides, you can access the website and contact me about the project and job-related issues.*
+
+*You can open this link here* https://misha-dig.github.io/ 
