@@ -9,3 +9,5 @@
 *Besides, you can access the website and contact me about the project and job-related issues.*
 
 *You can open this link here* https://misha-dig.github.io/ 
+
+*Copyright by Misha Zaslavskis protects all content in this repository and website.*
